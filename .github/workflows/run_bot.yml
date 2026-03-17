@@ -16,10 +16,6 @@ jobs:
   run-bot:
     runs-on: ubuntu-latest
 
-    defaults:
-      run:
-        working-directory: finkratko_bot
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
