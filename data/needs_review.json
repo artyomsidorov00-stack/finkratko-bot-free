@@ -1,3 +1,40 @@
 {
-  "items": []
+  "items": [
+    {
+      "video_id": "EemgX1dnjpg",
+      "channel_name": "Финам Инвестиции",
+      "title": "Крах или взлет? Акции и нефть на грани!",
+      "video_url": "https://www.youtube.com/watch?v=EemgX1dnjpg",
+      "published_at": "2026-03-17T06:09:54Z",
+      "reason": "transcript_not_found",
+      "metrics": {}
+    },
+    {
+      "video_id": "F68aogcbBlk",
+      "channel_name": "БКС Мир инвестиций",
+      "title": "Готовимся к заседанию ЦБ! Доллар уже 80 рублей",
+      "video_url": "https://www.youtube.com/watch?v=F68aogcbBlk",
+      "published_at": "2026-03-16T16:06:27Z",
+      "reason": "transcript_not_found",
+      "metrics": {}
+    },
+    {
+      "video_id": "WxAJeih85YU",
+      "channel_name": "РБК Инвестиции",
+      "title": "ЮГК, Русал, ФосАгро и нефтяники: где искать идеи на рынке. Инвесторы не оценили отчёт Полюса?",
+      "video_url": "https://www.youtube.com/watch?v=WxAJeih85YU",
+      "published_at": "2026-03-17T07:35:00Z",
+      "reason": "transcript_not_found",
+      "metrics": {}
+    },
+    {
+      "video_id": "T0ULvTIwZkg",
+      "channel_name": "Деньги не спят",
+      "title": "От нефти зависит вообще все: к чему приведет борьба за ресурсы / Побочные эффекты для России и рубля",
+      "video_url": "https://www.youtube.com/watch?v=T0ULvTIwZkg",
+      "published_at": "2026-03-13T19:07:29Z",
+      "reason": "transcript_not_found",
+      "metrics": {}
+    }
+  ]
 }
